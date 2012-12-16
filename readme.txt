@@ -77,7 +77,7 @@ Visit: http://www.monetizecomments.com/help
 2. Form-overlay presents your banners to your users before they comment.
 3. In-Stream banners monetizes your existing comments, configured for "after every", "every other" or "every third" comment.
 4. New Comment section provides social login capabilities, top comments ranking, like/dislike, time ago timestamps
-5. The WP-Admin Settings page for the MOnetizeComments Plugin allows the publisher to set the width of the section. (Note: All ad settings are configured at http://www.monetizecomments.com/publishers)
+5. The WP-Admin Settings page for the MOnetizeComments Plugin allows the publisher to set the width of the section. NOTE: All ad settings are configured at http://www.monetizecomments.com/publishers
 
 == Changelog ==
 
